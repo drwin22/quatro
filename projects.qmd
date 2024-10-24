@@ -1,17 +1,34 @@
 ---
-title: "Projects"
+title: "projects"
+format: html
 ---
 
-## Project 1
-```{r,echo=FALSE}
-hist(cars$speed)
-```
-## Project 2
-```{r,echo=FALSE}
+## Quarto
+
+Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+
+## Running Code
 fish <- read.csv("https://raw.githubusercontent.com/drwin22/data/refs/heads/main/FISHDDT.csv")
 str(fish)
 ddt <-fish$DDT
 ddt
 summary(fish$DDT)
+When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
+
+```{r}
+1 + 1
 ```
-## Project 3
+
+You can add options to executable code like this 
+
+```{r}
+#| echo: false
+fish <- read.csv("https://raw.githubusercontent.com/drwin22/data/refs/heads/main/FISHDDT.csv")
+str(fish)
+ddt <-fish$DDT
+ddt
+summary(fish$DDT)
+plot(ddt)
+```
+
+The `echo: false` option disables the printing of code (only output is displayed).
