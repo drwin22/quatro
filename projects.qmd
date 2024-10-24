@@ -3,7 +3,15 @@ title: "Projects"
 ---
 
 ## Project 1
-
+```{r,echo=FALSE}
+hist(cars$speed)
+```
 ## Project 2
-
+```{r,echo=FALSE}
+fish <- read.csv("https://raw.githubusercontent.com/drwin22/data/refs/heads/main/FISHDDT.csv")
+str(fish)
+ddt <-fish$DDT
+ddt
+summary(fish$DDT)
+```
 ## Project 3
