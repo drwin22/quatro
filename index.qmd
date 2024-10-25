@@ -3,7 +3,7 @@ title: "My Personnal Bio"
 about:
   id: me
   template: trestles
-  image: img/profile.png
+  image: img/chart.png
   image-shape: round
   image-width: 15em
 ---
