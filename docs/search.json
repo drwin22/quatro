@@ -1,5 +1,19 @@
 [
   {
+    "objectID": "vision.html#project-2",
+    "href": "vision.html#project-2",
+    "title": "Vision",
+    "section": "Project 2",
+    "text": "Project 2"
+  },
+  {
+    "objectID": "vision.html#project-3",
+    "href": "vision.html#project-3",
+    "title": "Vision",
+    "section": "Project 3",
+    "text": "Project 3"
+  },
+  {
     "objectID": "projects.html#project-2",
     "href": "projects.html#project-2",
     "title": "Projects",
@@ -14,23 +28,72 @@
     "text": "Project 3"
   },
   {
+    "objectID": "innovation.html#project-2",
+    "href": "innovation.html#project-2",
+    "title": "Innovation",
+    "section": "Project 2",
+    "text": "Project 2"
+  },
+  {
+    "objectID": "innovation.html#project-3",
+    "href": "innovation.html#project-3",
+    "title": "Innovation",
+    "section": "Project 3",
+    "text": "Project 3"
+  },
+  {
+    "objectID": "assessment.html#project-2",
+    "href": "assessment.html#project-2",
+    "title": "Assessment",
+    "section": "Project 2",
+    "text": "Project 2"
+  },
+  {
+    "objectID": "assessment.html#project-3",
+    "href": "assessment.html#project-3",
+    "title": "Assessment",
+    "section": "Project 3",
+    "text": "Project 3"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "My Personnal Bio",
+    "title": "Intermediate Statistics-2100",
     "section": "",
-    "text": "Thanks for checking out my web site!"
+    "text": "Project1\n\n\nthe data. But most important, it should tell you what the variable names mean and what the values mean. With any luck, it will also tell you the data type (for example, is it a number or a character?). Warning: you might have to look at a great many data files before you find one that is useful. Assignment: Download a data set and write a report answering these questions:\n\nWhat is the URL of the page from which you downloaded your data?\nWhat file types are available for your data? What file type did you download?\nHow many variables are there? How many observations?\nWhat does a row in the data set represent? In other words, what is the basic unit of observation?\nWhy were these data collected? What is their purpose? How were they collected?\nIn terms of megabytes (or gigabytes], how large is the file? (This information might not be available on the website; you might need to determine this using your computer’s operating system.)\nWhy were you interested in this data set? Give some examples of what you want to learn from these data.\nTry to upload the data to StatCrunch. Describe what happens. Did you get what you expected? Did you get an error? Describe the outcome.\nThanks for checking out my website. Happy Learning!"
+  },
+  {
+    "objectID": "index.html#projec-1-big-data",
+    "href": "index.html#projec-1-big-data",
+    "title": "Intermediate Statistics-2100",
+    "section": "",
+    "text": "Project1\n\n\nthe data. But most important, it should tell you what the variable names mean and what the values mean. With any luck, it will also tell you the data type (for example, is it a number or a character?). Warning: you might have to look at a great many data files before you find one that is useful. Assignment: Download a data set and write a report answering these questions:\n\nWhat is the URL of the page from which you downloaded your data?\nWhat file types are available for your data? What file type did you download?\nHow many variables are there? How many observations?\nWhat does a row in the data set represent? In other words, what is the basic unit of observation?\nWhy were these data collected? What is their purpose? How were they collected?\nIn terms of megabytes (or gigabytes], how large is the file? (This information might not be available on the website; you might need to determine this using your computer’s operating system.)\nWhy were you interested in this data set? Give some examples of what you want to learn from these data.\nTry to upload the data to StatCrunch. Describe what happens. Did you get what you expected? Did you get an error? Describe the outcome."
   },
   {
     "objectID": "philosophy.html#project-2",
     "href": "philosophy.html#project-2",
-    "title": "Projects",
+    "title": "Teaching Philosophy",
     "section": "Project 2",
     "text": "Project 2"
   },
   {
     "objectID": "philosophy.html#project-3",
     "href": "philosophy.html#project-3",
-    "title": "Projects",
+    "title": "Teaching Philosophy",
+    "section": "Project 3",
+    "text": "Project 3"
+  },
+  {
+    "objectID": "services.html#project-2",
+    "href": "services.html#project-2",
+    "title": "Services",
+    "section": "Project 2",
+    "text": "Project 2"
+  },
+  {
+    "objectID": "services.html#project-3",
+    "href": "services.html#project-3",
+    "title": "Services",
     "section": "Project 3",
     "text": "Project 3"
   }

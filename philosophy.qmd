@@ -1,5 +1,5 @@
 ---
-title: "Teaching Philopsophy"
+title: "Teaching Philosophy"
 ---
 
 ## Project 1
