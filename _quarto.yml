@@ -8,12 +8,14 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - Introduction.qmd
       - Chapter-1.qmd
-      - Chapter-1.qmd
-      - Chapter-1.qmd
-      - Chapter-1.qmd
+      - Chapter-2.qmd
+      - Chapter-3.qmd
+      - Chapter-4.qmd
       - Resources.qmd
-      - CV.qmd
+
+      
     tools:
       - icon: twitter
         href: https://twitter.com/

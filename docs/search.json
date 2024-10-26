@@ -1,57 +1,15 @@
 [
   {
-    "objectID": "vision.html#project-2",
-    "href": "vision.html#project-2",
-    "title": "Vision",
+    "objectID": "Resources.html#project-2",
+    "href": "Resources.html#project-2",
+    "title": "Resources",
     "section": "Project 2",
-    "text": "Project 2"
+    "text": "Project 2\n\nplot(cars$speed)"
   },
   {
-    "objectID": "vision.html#project-3",
-    "href": "vision.html#project-3",
-    "title": "Vision",
-    "section": "Project 3",
-    "text": "Project 3"
-  },
-  {
-    "objectID": "projects.html#project-2",
-    "href": "projects.html#project-2",
-    "title": "Projects",
-    "section": "Project 2",
-    "text": "Project 2"
-  },
-  {
-    "objectID": "projects.html#project-3",
-    "href": "projects.html#project-3",
-    "title": "Projects",
-    "section": "Project 3",
-    "text": "Project 3"
-  },
-  {
-    "objectID": "innovation.html#project-2",
-    "href": "innovation.html#project-2",
-    "title": "Innovation",
-    "section": "Project 2",
-    "text": "Project 2"
-  },
-  {
-    "objectID": "innovation.html#project-3",
-    "href": "innovation.html#project-3",
-    "title": "Innovation",
-    "section": "Project 3",
-    "text": "Project 3"
-  },
-  {
-    "objectID": "assessment.html#project-2",
-    "href": "assessment.html#project-2",
-    "title": "Assessment",
-    "section": "Project 2",
-    "text": "Project 2"
-  },
-  {
-    "objectID": "assessment.html#project-3",
-    "href": "assessment.html#project-3",
-    "title": "Assessment",
+    "objectID": "Resources.html#project-3",
+    "href": "Resources.html#project-3",
+    "title": "Resources",
     "section": "Project 3",
     "text": "Project 3"
   },
@@ -70,30 +28,100 @@
     "text": "Project1\n\n\nthe data. But most important, it should tell you what the variable names mean and what the values mean. With any luck, it will also tell you the data type (for example, is it a number or a character?). Warning: you might have to look at a great many data files before you find one that is useful. Assignment: Download a data set and write a report answering these questions:\n\nWhat is the URL of the page from which you downloaded your data?\nWhat file types are available for your data? What file type did you download?\nHow many variables are there? How many observations?\nWhat does a row in the data set represent? In other words, what is the basic unit of observation?\nWhy were these data collected? What is their purpose? How were they collected?\nIn terms of megabytes (or gigabytes], how large is the file? (This information might not be available on the website; you might need to determine this using your computer’s operating system.)\nWhy were you interested in this data set? Give some examples of what you want to learn from these data.\nTry to upload the data to StatCrunch. Describe what happens. Did you get what you expected? Did you get an error? Describe the outcome."
   },
   {
-    "objectID": "philosophy.html#project-2",
-    "href": "philosophy.html#project-2",
-    "title": "Teaching Philosophy",
+    "objectID": "Chapter-3.html#project-2",
+    "href": "Chapter-3.html#project-2",
+    "title": "Chapter-3",
     "section": "Project 2",
-    "text": "Project 2"
+    "text": "Project 2\n\nhead(cars)\n\n  speed dist\n1     4    2\n2     4   10\n3     7    4\n4     7   22\n5     8   16\n6     9   10"
   },
   {
-    "objectID": "philosophy.html#project-3",
-    "href": "philosophy.html#project-3",
-    "title": "Teaching Philosophy",
+    "objectID": "Chapter-3.html#project-3",
+    "href": "Chapter-3.html#project-3",
+    "title": "Chapter-3",
     "section": "Project 3",
     "text": "Project 3"
   },
   {
-    "objectID": "services.html#project-2",
-    "href": "services.html#project-2",
-    "title": "Services",
+    "objectID": "Chapter-1.html#project-2",
+    "href": "Chapter-1.html#project-2",
+    "title": "Chapter-1",
+    "section": "Project 2",
+    "text": "Project 2\n\nhist(cars$speed)"
+  },
+  {
+    "objectID": "Chapter-1.html#project-3",
+    "href": "Chapter-1.html#project-3",
+    "title": "Chapter-1",
+    "section": "Project 3",
+    "text": "Project 3"
+  },
+  {
+    "objectID": "Chapter-2.html",
+    "href": "Chapter-2.html",
+    "title": "Chapter-2",
+    "section": "",
+    "text": "plot(cars$dist)"
+  },
+  {
+    "objectID": "Chapter-2.html#project-1",
+    "href": "Chapter-2.html#project-1",
+    "title": "Chapter-2",
+    "section": "",
+    "text": "plot(cars$dist)"
+  },
+  {
+    "objectID": "Chapter-2.html#project-2",
+    "href": "Chapter-2.html#project-2",
+    "title": "Chapter-2",
     "section": "Project 2",
     "text": "Project 2"
   },
   {
-    "objectID": "services.html#project-3",
-    "href": "services.html#project-3",
-    "title": "Services",
+    "objectID": "Chapter-2.html#project-3",
+    "href": "Chapter-2.html#project-3",
+    "title": "Chapter-2",
+    "section": "Project 3",
+    "text": "Project 3"
+  },
+  {
+    "objectID": "Chapter-4.html#project-2",
+    "href": "Chapter-4.html#project-2",
+    "title": "Chapter-4",
+    "section": "Project 2",
+    "text": "Project 2\n\nstr(cars)\n\n'data.frame':   50 obs. of  2 variables:\n $ speed: num  4 4 7 7 8 9 10 10 10 11 ...\n $ dist : num  2 10 4 22 16 10 18 26 34 17 ...\n\nsummary (cars)\n\n     speed           dist       \n Min.   : 4.0   Min.   :  2.00  \n 1st Qu.:12.0   1st Qu.: 26.00  \n Median :15.0   Median : 36.00  \n Mean   :15.4   Mean   : 42.98  \n 3rd Qu.:19.0   3rd Qu.: 56.00  \n Max.   :25.0   Max.   :120.00"
+  },
+  {
+    "objectID": "Chapter-4.html#project-3",
+    "href": "Chapter-4.html#project-3",
+    "title": "Chapter-4",
+    "section": "Project 3",
+    "text": "Project 3"
+  },
+  {
+    "objectID": "Introduction.html",
+    "href": "Introduction.html",
+    "title": "Introduction",
+    "section": "",
+    "text": "fivenum(cars$speed)\n\n[1]  4 12 15 19 25"
+  },
+  {
+    "objectID": "Introduction.html#project-1",
+    "href": "Introduction.html#project-1",
+    "title": "Introduction",
+    "section": "",
+    "text": "fivenum(cars$speed)\n\n[1]  4 12 15 19 25"
+  },
+  {
+    "objectID": "Introduction.html#project-2",
+    "href": "Introduction.html#project-2",
+    "title": "Introduction",
+    "section": "Project 2",
+    "text": "Project 2"
+  },
+  {
+    "objectID": "Introduction.html#project-3",
+    "href": "Introduction.html#project-3",
+    "title": "Introduction",
     "section": "Project 3",
     "text": "Project 3"
   }

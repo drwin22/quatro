@@ -1,9 +1,12 @@
 ---
-title: "Teaching Philosophy"
+title: "Chapter-3"
 ---
 
 ## Project 1
 
 ## Project 2
+```{r}
+head(cars)
+```
 
 ## Project 3

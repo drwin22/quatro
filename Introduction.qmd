@@ -1,10 +1,10 @@
 ---
-title: "Chapter-2"
+title: "Introduction"
 ---
 
 ## Project 1
 ```{r}
-plot(cars$dist)
+fivenum(cars$speed)
 ```
 
 ## Project 2

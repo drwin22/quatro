@@ -1,9 +1,13 @@
 ---
-title: "Services"
+title: "Resources"
 ---
 
 ## Project 1
 
 ## Project 2
+```{r}
+
+plot(cars$speed)
+```
 
 ## Project 3

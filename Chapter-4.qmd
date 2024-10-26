@@ -1,9 +1,13 @@
 ---
-title: "Projects"
+title: "Chapter-4"
 ---
 
 ## Project 1
 
 ## Project 2
+```{r}
+str(cars)
+summary (cars)
+```
 
 ## Project 3
