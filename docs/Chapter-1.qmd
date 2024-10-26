@@ -1,0 +1,12 @@
+---
+title: "Chapter-1"
+---
+
+## Project 1
+
+## Project 2
+```{r}
+hist(cars$speed)
+```
+
+## Project 3
